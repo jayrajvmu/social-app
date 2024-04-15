@@ -1,7 +1,6 @@
 {
   "name": "social-app",
   "homepage": "https://jayrajvmu.github.io/social-app/",
-  
   "version": "0.1.0",
   "private": true,
   "dependencies": {
